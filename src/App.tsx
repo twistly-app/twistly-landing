@@ -158,7 +158,7 @@ export default function App() {
         </div>
 
         <p style={{ marginTop: 20, fontSize: 12, color: '#888' }}>
-          Pensado para parejas reales. Sin dinero, sin presión.
+          Make by couples, Made for couples.
         </p>
       </section>
     </main>
