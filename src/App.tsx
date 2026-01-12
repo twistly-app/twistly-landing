@@ -1,3 +1,4 @@
+import { Analytics } from '@vercel/analytics/react'
 import BesoIcon from './assets/icons/beso.png'
 import DadoIcon from './assets/icons/dado.png'
 import RegaloIcon from './assets/icons/regalo.png'
@@ -161,6 +162,7 @@ export default function App() {
           Make by couples, Made for couples.
         </p>
       </section>
+      <Analytics />
     </main>
   )
 }
